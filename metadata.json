@@ -1,0 +1,5 @@
+{
+  "name": "Physical Mosaic Wall - Post Generator",
+  "description": "A high-fidelity social media mockup tool that transforms images into mosaic wall art using Gemini AI and generates platform-specific post images for Instagram, Facebook, LinkedIn, and Twitter.",
+  "requestFramePermissions": []
+}
